@@ -5,6 +5,8 @@ Data Science student at Brigham Young University-Idaho
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/madeline-woodard-26373917b/">Linked-in</a>
 | <a href="woodardmadelin9@gmail.com">woodardmadelin9@gmail.com</a>
+ | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+  | <a href="https://github.com/woodardmadeline">Git Hub</a>
 </div>
 
 
