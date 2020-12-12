@@ -1,3 +1,7 @@
+--- 
+layout: cv
+title: Madeline woodard's Resume
+----
 
 # Madeline Woodard
 Data Science student at Brigham Young University-Idaho
